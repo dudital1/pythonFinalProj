@@ -17,8 +17,6 @@ Relevant Information :
 	ecological processes rather than forest management practices.
 
 
-
-
 Name                                     Data Type    Measurement                       Description
 
 Elevation                               quantitative    meters                       Elevation in meters
@@ -33,7 +31,6 @@ Hillshade_3pm                           quantitative    0 to 255 index          
 Horizontal_Distance_To_Fire_Points      quantitative    meters                       Horz Dist to nearest wildfire ignition points
 Wilderness_Area 					    qualitative     type						 Wilderness area designation
 Cover_Type (7 types)                    integer         1 to 7                       Forest Cover Type designation
-
 
 Code Designations:
 
